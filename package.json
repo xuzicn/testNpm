@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuzicn/testNpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuzicn/testNpm/issues"
+  },
+  "homepage": "https://github.com/xuzicn/testNpm#readme",
+  "dependencies": {
+    "chokidar": "^1.5.1"
+  }
+}
